@@ -29,10 +29,10 @@ function NavBar() {
             }}
           >
             <LinkNav nameLink={"Inicio"}></LinkNav>
-            <LinkNav nameLink={"Servicios"}></LinkNav>
-            <LinkNav nameLink={"Reservas"}></LinkNav>
+            <LinkNav nameLink={"Máquinas"}></LinkNav>
             <LinkNav nameLink={"Barberos"}></LinkNav>
-            <LinkNav nameLink={"Contacto"}></LinkNav>
+            <LinkNav nameLink={"Servicios"}></LinkNav>
+            <LinkNav nameLink={"Locales"}></LinkNav>
           </ul>
         </div>
         <CartWidget></CartWidget>
