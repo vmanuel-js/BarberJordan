@@ -1,5 +1,5 @@
 import LinkNav from "./LinkNav";
-import CartWidget from "./CardWidget";
+import CartWidget from "./CartWidget";
 
 function NavBar() {
   return (
@@ -15,7 +15,7 @@ function NavBar() {
         <a href="#">
           <img
             style={{ width: "120px", height: "120px", margin: "10px" }}
-            src="./src/img/barberjordan-bgtrns2.png"
+            src="./public/img/barberjordan-bgtrns2.png"
             alt="Logo de BarberJordan"
           />
         </a>
