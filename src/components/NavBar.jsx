@@ -15,7 +15,7 @@ function NavBar() {
         <a href="#">
           <img
             style={{ width: "120px", height: "120px", margin: "10px" }}
-            src="./public/img/barberjordan-bgtrns2.png"
+            src="./img/barberjordan-bgtrns2.png"
             alt="Logo de BarberJordan"
           />
         </a>
